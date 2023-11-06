@@ -1,4 +1,4 @@
-//difine a class named 'compound'
+//define a class named 'compound'
 class compound {
      // Method to calculate compound interest
     public double calculateC(double p,double r,double t, double n){
